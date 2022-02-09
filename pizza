@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <body>
+        <style>
+@import url('https://fonts.googleapis.com/css2?family=Rouge+Script&display=swap');
+</style>
+<link rel="Stylesheet" href="index.css">
+<h1>  </h1>
+<div id="main">
+    <nav>
+        <ul> 
+            <li> <a href="index.html" style="text-decoration:none;">Meny</a> </li>
+            <li> <a href="index.html" style="text-decoration:none;">Takeaway</a></li>
+            <li> <a href="index.html" style="text-decoration:None;"> Reservation </a></li>
+            <li> <a href="index.html" style="text-decoration:None;"> Contact </a></li>
+        </ul>
+    </nav>
+    <div class="center">
+        <div class="front-face">
+               <div class="contents front">
+                  <p>
+                     Little italy
+                  </p>
+                  <span> Authentic italian cuisine</span>
+               </div>
+            </div>
+            <div class="back-face">
+               <div class="contents back">
+                  <h2>
+                     Visit us at
+                  </h2>
+                  <span> Yellowbrickroad 123</span>
+                
+               </div>
+            </div>
+        </div>
+        <div class="wrapper">
+            <div class="button">
+               <div class="icon">
+                  <i class="fab fa-facebook-f"></i>
+               </div>
+               <span>Facebook</span>
+            </div>
+            <div class="button">
+               <div class="icon">
+                  <i class="fab fa-twitter"></i>
+               </div>
+               <span>Twitter</span>
+            </div>
+            <div class="button">
+               <div class="icon">
+                  <i class="fab fa-instagram"></i>
+               </div>
+               <span>Instagram</span>
+            </div>
+            <div class="button">
+               <div class="icon">
+                  <i class="fab fa-youtube"></i>
+               </div>
+               <span>YouTube</span>
+            </div>
+</div>
+
+
+
+  <head>
+      <meta charset="utf-8">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+   </head>
+      
+
+    
+
+    </body>
+</html>
